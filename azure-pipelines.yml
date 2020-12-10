@@ -5,7 +5,7 @@
 # Cross check Continuous Integration
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
